@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+  <title></title>
+  <style type="text/css">
+  body {
+    color: white;
+    background-color: brown;
+	}
+	table, th, td 
+	{
+   border: 4px solid black;
+}
+th {
+    background-color: red;
+    color: white;
+	height: 40px;
+	font-size:x-large;
+}
+table {
+    width: 100%;
+	font-size:large;
+}
+
+h1{
+	text-align:center;
+	font-style: italic;
+	font-style:bold;
+	text-decoration: underline;
+}
+h2{
+	text-align:center;
+	text-decoration: underline;
+}
+p{
+	border:3px solid;
+	text-align:center;
+	font-size:large;
+}
+a{
+	color:white;
+	font-size:x-large;
+}
+  </style>
+</head>
